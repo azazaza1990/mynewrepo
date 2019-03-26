@@ -3,7 +3,7 @@ describe("Audi gen", function() {
      it("visit", function() {
      cy.clearCookies()
      cy.visit("https://magaz.apgrup.ru");
-})
+});
      it('Audi 100/200', function() {
       cy.get('#root > div > div.TjJL > div._11Gk').contains("Все марки").click();
       cy.get('._3WQJ').contains('Audi').click();
