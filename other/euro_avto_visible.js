@@ -34,7 +34,7 @@ var set_price = 'p.ng-scope > span.ng-scope > [ng-click="click(0)"]'//Кнопк
 var selling_price = '#form-sellingPrice'//Цена продажи
 var purchase_price = '#form-purchasePrice'//Цена покупки
 var save = '.form__input > .btn'//Кнопка сохранить в окне оценить деталь
-var info_detail = '.partsView__info'//Информация в профиле о детали 345 + 3234 +348743 - 76346743d
+var info_detail = '.partsView__info'//Информация в профиле о детали 345 + 3234 +348743 - 76346743d другой мастер
 
 //Предзаказ
 var preorder_menu = ':nth-child(16) > .nav > :nth-child(1) > .ng-binding'//Меню предзаказа
